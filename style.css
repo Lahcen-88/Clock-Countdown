@@ -16,7 +16,7 @@ h2,h3 {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 2.6em;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 #seconds,#tens {
